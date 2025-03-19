@@ -57,15 +57,16 @@ To run in the background:
 nohup python Post_RedditLeaderboard.py > bot.log 2>&1 &
 ```
 
-### 6️⃣ Keep the Bot Running (PythonAnywhere or Server)
+<!-- ### 6️⃣ Keep the Bot Running (PythonAnywhere or Server)
 - On PythonAnywhere, set up a **scheduled task**.
 - On a Linux server, use `nohup` or `screen`.
 - For permanent background execution:
 ```bash
 crontab -e
 # Add this line (runs the bot on reboot)
-@reboot /path/to/venv/bin/python /path/to/RedditBot/Post_RedditLeaderboard.py
-```
+@reboot /path/to/venv/bin/python /path/to/RedditBot/Post_RedditLeaderboard.py 
+
+-->```
 
 ## 🛠 How It Works
 1️⃣ `RedditLeaderboards.py` fetches and formats leaderboard rankings.  
@@ -85,11 +86,12 @@ crontab -e
 - **Test before deploying** to ensure correct scheduling and API access.
 - **Modify schedule and logic** in `Post_RedditLeaderboard.py` as needed.
 
-## 🎯 Future Enhancements
-- Fetch dynamic top contributors using Reddit API.
-- Add logging and error monitoring with alerts.
-- Extend leaderboard formats for different subreddit needs.
+
 
 ---
 Made with ❤️ for Reddit automation. 🚀 Happy coding!
+---
+### by Contractor-x
+      
+      In collaboration with @Ash-Cyber-and-Computer-Organizati0n..
 
