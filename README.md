@@ -93,5 +93,5 @@ Made with ❤️ for Reddit automation. 🚀 Happy coding!
 ---
 ### by Contractor-x
       
-      In collaboration with @Ash-Cyber-and-Computer-Organizati0n....
+      In collaboration with @Ash-Cyber-and-Computer-Organizati0n.....
 
