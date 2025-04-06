@@ -72,7 +72,7 @@ crontab -e
 1️⃣ `RedditLeaderboards.py` fetches and formats leaderboard rankings.  
 2️⃣ `Post_RedditLeaderboard.py` schedules and automates the posting.  
 3️⃣ Submissions are posted based on `schedule.every().day.at("12:00").do(...)`.  
-4️⃣ The bot logs activities to `bot.log` for monitoring.  
+4️⃣ The bot logs activities to `bot.log` for monitoring.. 
 
 ## 📅 Default Schedule
 | Subreddit  | Posting Time (UTC) |
