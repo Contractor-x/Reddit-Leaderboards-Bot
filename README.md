@@ -1,4 +1,4 @@
-# 🚀 Reddit Leaderboard Bot.
+#  Reddit Leaderboard Bot.
 
 A fully automated Reddit bot that posts leaderboard rankings to multiple subreddits at scheduled times. The bot fetches top contributors, formats them into a ranking system, and posts it as a Reddit post.
 
