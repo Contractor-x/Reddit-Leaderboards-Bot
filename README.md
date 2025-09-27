@@ -19,7 +19,7 @@ RedditBot/
 ✅ **Secure API Authentication** – Uses `.env` for secure credential storage.  
 ✅ **Error Handling & Logging** – Ensures smooth operation with useful debugging logs.  
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/RedditBot.git
