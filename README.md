@@ -81,7 +81,7 @@ crontab -e
 | `r/fun`        | 2:00 PM  |
 | *(Add More!)*  | *(Custom Time!)* |
 
-## ⚠️ Important Notes
+##  Important Notes
 - **Keep your `Credentials.env` file safe!** Never share it publicly.
 - **Test before deploying** to ensure correct scheduling and API access.
 - **Modify schedule and logic** in `Post_RedditLeaderboard.py` as needed.
