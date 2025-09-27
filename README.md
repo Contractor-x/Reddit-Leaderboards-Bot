@@ -74,7 +74,7 @@ crontab -e
 3️⃣ Submissions are posted based on `schedule.every().day.at("12:00").do(...)`.  
 4️⃣ The bot logs activities to `bot.log` for monitoring.. 
 
-## 📅 Default Schedule
+## Default Schedule
 | Subreddit  | Posting Time (UTC) |
 |------------|------------------|
 | `r/technology` | 12:00 PM |
