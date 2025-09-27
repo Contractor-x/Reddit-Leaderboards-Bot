@@ -12,7 +12,7 @@ RedditBot/
 │── venv/                       # Virtual environment (recommended for isolated execution)
 ```
 
-## 🌟 Features
+## Features
 ✅ **Automated Leaderboard Posting** – Posts daily leaderboards to selected subreddits.  
 ✅ **Multiple Subreddits Support** – Customize schedules for different themes.  
 ✅ **Scheduled Posting** – Uses `schedule` to automate submissions at peak engagement times.  
